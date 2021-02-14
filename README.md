@@ -5,3 +5,4 @@
 2. NEST (elastic search libs)
 3. ElasticSearch cloud
 4. Actors patterns
+5. Docker support
