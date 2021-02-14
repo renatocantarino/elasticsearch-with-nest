@@ -1,0 +1,12 @@
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.deps.json
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.dll
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.pdb
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.dll
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.pdb
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.csprojAssemblyReference.cache
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.AssemblyInfoInputs.cache
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.AssemblyInfo.cs
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.csproj.CoreCompileInputs.cache
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.csproj.CopyComplete
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.dll
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.WebApi.Core\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.WebApi.Core.pdb

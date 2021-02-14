@@ -1,0 +1,9 @@
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.deps.json
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.dll
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\bin\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.pdb
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.csprojAssemblyReference.cache
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.AssemblyInfoInputs.cache
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.AssemblyInfo.cs
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.csproj.CoreCompileInputs.cache
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.dll
+D:\projetos\elasticsearch-with-nest\src\Sample.Elasticsearch.Domain\obj\Debug\netcoreapp3.1\Sample.Elasticsearch.Domain.pdb

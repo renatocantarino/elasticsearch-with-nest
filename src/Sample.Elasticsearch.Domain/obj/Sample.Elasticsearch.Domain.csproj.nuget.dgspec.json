@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\projetos\\elasticsearch-with-nest\\src\\Sample.Elasticsearch.Domain\\Sample.Elasticsearch.Domain.csproj": {}
+  },
+  "projects": {
+    "D:\\projetos\\elasticsearch-with-nest\\src\\Sample.Elasticsearch.Domain\\Sample.Elasticsearch.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\projetos\\elasticsearch-with-nest\\src\\Sample.Elasticsearch.Domain\\Sample.Elasticsearch.Domain.csproj",
+        "projectName": "Sample.Elasticsearch.Domain",
+        "projectPath": "D:\\projetos\\elasticsearch-with-nest\\src\\Sample.Elasticsearch.Domain\\Sample.Elasticsearch.Domain.csproj",
+        "packagesPath": "C:\\Users\\RenatoCantarino\\.nuget\\packages\\",
+        "outputPath": "D:\\projetos\\elasticsearch-with-nest\\src\\Sample.Elasticsearch.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\RenatoCantarino\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.10.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "i7uADlzeiYp4lXHMO7y53Nc9cwCXMt773nm3CaWal8vqhJbg4s3bza31/GArqTvxNP8/yvV/EsA2YU5mZ7+NVQ==",
+  "success": true,
+  "projectFilePath": "D:\\projetos\\elasticsearch-with-nest\\src\\Sample.Elasticsearch.Domain\\Sample.Elasticsearch.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RenatoCantarino\\.nuget\\packages\\elasticsearch.net\\7.10.1\\elasticsearch.net.7.10.1.nupkg.sha512",
+    "C:\\Users\\RenatoCantarino\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\RenatoCantarino\\.nuget\\packages\\nest\\7.10.1\\nest.7.10.1.nupkg.sha512",
+    "C:\\Users\\RenatoCantarino\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\RenatoCantarino\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0\\system.diagnostics.diagnosticsource.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
